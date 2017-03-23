@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>practica1/semana1</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="estilos.css">
+  </head>
+  <body>
+    <form action="">
+      <h2>CONTACTO</h2>
+      <div class="nombre">Elisban Cayulla Chuco</div>
+      <input type="text" name="Correo" placeholder="Correo">
+      <input type="text" name="Nombre" placeholder="Nombre">
+      <input type="text" name="Comentario" placeholder="Comentario">
+      <input type="button" value="Enviar" id="botton">
+    </form>
+  </body>
+</html>
